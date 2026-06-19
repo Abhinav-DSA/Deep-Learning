@@ -1,6 +1,6 @@
 # 🧠 Deep Learning — From Perceptrons to Optimizers
 
-> A complete, structured Deep Learning study guide — every topic explained in three layers: **Simple Words (as if to a 15-year-old)**, **Interview-Style Answers**, and **Real-Life Analogies** - By Abhinav Srivastava
+> A complete, structured Deep Learning study guide — every topic explained in three layers: **Simple Words**, **Interview-Style Answers**, and **Real-Life Analogies** - By Abhinav Srivastava
 
 ![Deep Learning](https://img.shields.io/badge/Topic-Deep%20Learning-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-green)
