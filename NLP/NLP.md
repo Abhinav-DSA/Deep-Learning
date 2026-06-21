@@ -10,7 +10,7 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-**One repo. Every concept explained three ways — Abhinav Srivastava.**
+**One repo. Every concept explained three ways —  By Abhinav Srivastava.**
 
 </div>
 
